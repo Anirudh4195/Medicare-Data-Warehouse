@@ -1,4 +1,5 @@
 Objective:
+
 •	To brief about the requirements to be fulfilled by the data warehouse housing Medicare provider beneficiary and monetary data collected from Centers for Medicare & Medicaid Services (CMS) website using Kimball architecture thereby utilizing update-driven approach. 
 
 •	To explain the design to be followed for below parts within Data warehouse:
